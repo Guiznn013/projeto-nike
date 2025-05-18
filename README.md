@@ -12,6 +12,8 @@
 </ul>
 <br>
 <br>
-<img src="" alt="nike-air-zoom-green" />
-<img src="" alt="nike-air-zoom-pink" />
-<img src="" alt="nike-air-zoom-blue" />
+<img src="https://github.com/Guiznn013/projeto-nike/blob/master/img/nike-green.png?raw=true" alt="nike-air-zoom-green" />
+<br></br>
+<img src="https://github.com/Guiznn013/projeto-nike/blob/master/img/nike-pink.png?raw=true" alt="nike-air-zoom-pink" />
+<br>
+<img src="https://github.com/Guiznn013/projeto-nike/blob/master/img/nike_blue.png?raw=true" alt="nike-air-zoom-blue" />
