@@ -12,8 +12,5 @@
 </ul>
 <br>
 <br>
-<img src="https://github.com/Guiznn013/projeto-nike/blob/master/img/nike-green.png?raw=true" alt="nike-air-zoom-green" />
-<br></br>
-<img src="https://github.com/Guiznn013/projeto-nike/blob/master/img/nike-pink.png?raw=true" alt="nike-air-zoom-pink" />
-<br>
-<img src="https://github.com/Guiznn013/projeto-nike/blob/master/img/nike_blue.png?raw=true" alt="nike-air-zoom-blue" />
+<h2>Website computer vision:</h2>
+<img src="https://github.com/guilhermeguariniello/Projeto-nike/blob/master/img/Nike%20Air%20Zoom%20Visions.png?raw=true" alt="website-computer-vision" />
